@@ -18,7 +18,7 @@ To do this I have created functions:
 
 **iterate** takes in the mock_application.json as data and traverses through it untile it finds versions and then assign the clean_versions to a variable called clean_application.
 
-##Tests
+## Tests
 Did'nt write too many tests just 2 unit tests to check the cleanArray and iterate function using Jest.
 
 p.s. Used snake_case for variables and camelCase for functions for readiability.
